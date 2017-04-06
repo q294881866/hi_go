@@ -1,9 +1,9 @@
 # hi_go
-OOP for Go \n <br>
+OOP for Go <br>
 
-  1.channel
-  2.concurrent
-  3.interface & method
+  1.channel<br>
+  2.concurrent<br>
+  3.interface & method<br>
   4.inherit
   5.closure
   6.class`s Or object`s
